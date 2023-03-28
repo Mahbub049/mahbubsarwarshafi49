@@ -210,7 +210,7 @@ p {
 #hero {
 	background-image: url(./img/01.jpg);
 	background-size: cover;
-	background-position: top center;
+	background-position: center center;
 	position: relative;
 	z-index: 1;
 }
