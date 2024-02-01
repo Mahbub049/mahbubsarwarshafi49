@@ -574,6 +574,8 @@ p {
 /* End Keyframes */
 
 /* Media Query For Tablet */
+
+
 @media only screen and (min-width: 768px) {
 	.cta {
 		font-size: 2.5rem;
@@ -583,6 +585,7 @@ p {
 		font-size: 6rem;
 	}
 
+	
 	/* Hero */
 	#hero h1 {
 		font-size: 7rem;
@@ -716,7 +719,7 @@ p {
   }
   .skill-bars{
 	padding: 25px 30px;
-	width: 1200px;
+	width: 60%;
 	background: #fff;
 	box-shadow: 5px 5px 20px rgba(0,0,0,0.2);
 	border-radius: 10px;
